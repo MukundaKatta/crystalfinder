@@ -57,6 +57,3 @@ src/
     materials.ts          # Material data and definitions
 ```
 
-## License
-
-MIT
